@@ -1,0 +1,39 @@
+.valid-password-check {
+  color: #aeffb6;
+}
+
+.invalid-password-check {
+  color: #f58989;
+}
+
+body {
+  background-color: #272A37;
+  display: flex;
+  justify-content: center;
+}
+
+.divH2Senha {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.nenhumSenha {
+  color: #838383;
+}
+
+.divForm {
+  width: 240px;
+  height: 170px;
+  top: 438px;
+  left: 274px;
+  border-radius: 10px;
+  background-color: #323544;
+  color: white;
+}
+
+.esconderSenha {
+  display: flex;
+  justify-content: right;
+  color: white;
+}
